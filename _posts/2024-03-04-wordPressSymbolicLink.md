@@ -1,6 +1,6 @@
 ---
 title: WordPress Symbolic Link
-date: 2024-03-04 12:00:00 -600
+date: 2024-03-03 10:00:00 -600
 categories: [environments,installs,tools]
 tags: [wordpress,packages,plugins,environments,tools,utilities]
 ---
